@@ -170,6 +170,10 @@ Note: This command may vary depending on your OS (e.g. Linux, macOS, CygWin). If
 
 ## Changelog
 
+[1.2.3]
+
+- Security: Dependency upgrades
+
 [1.2.2]
 
 - Fix incorrect state checks
@@ -229,3 +233,4 @@ This project is licensed under the GNU GPLv3 - see the [LICENSE.md](LICENSE.md) 
 
 - [tomikaa87](https://github.com/tomikaa87) for reverse-engineering the Gree protocol
 - [oroce](https://github.com/oroce) for inspiration
+- [lazlyhu](https://github.com/lazlyhu) for general maintains
